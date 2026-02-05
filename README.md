@@ -81,5 +81,5 @@
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ</h3>
   
   <!-- Pixel Decoration -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5ZGVjNDFkYzE4M2E5ZGVjNDFkYzE4M2E5ZGVjNDFkYzE4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/13CoXDiaCcCoyk/giphy.gif" width="50">
+  <img src="https://tumugi.dpdns.org/media/%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/64015445_p0.jpg" width="50">
 </div>
