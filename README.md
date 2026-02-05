@@ -82,4 +82,6 @@
   <p>見てくれてありがとだにゃ！また遊びに来てほしいにゃ！</p>
   <p><del>StarをくれるとNekoraが喜びの舞を踊るかもしれません</del></p>
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ <u>Bye Bye!</u></h3>
+
+   <img src="https://count.nett.moe/get/nekoraa/img?theme=moebooru-h" width="100%" alt="Touhou Header" style="border-radius: 10px;" />
 </div>
