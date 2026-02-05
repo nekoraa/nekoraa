@@ -79,6 +79,5 @@
 <div align="center">
   <p>見てくれてありがとだにゃ！また遊びに来てほしいにゃ！</p>
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ</h3>
-  <!-- Pixel Decoration -->
-  <img src="https://media.tenor.com/BJD3tZf5q2IAAAAi/remilia-scarlet-touhou.gif" width="60">
+
 </div>
