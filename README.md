@@ -1,7 +1,7 @@
 <!-- Header: Touhou Project Style -->
 <div align="center">
   <!-- ⚠️ 画像のURLは好きな東方の壁紙に書き換えてくださいにゃ -->
-  <img src="https://image.baidu.com/search/down?thumburl=https://baidu.com&url=https://tvax2.sinaimg.cn/large/7e8b4ac8ly1i51n0552p1j20xc0f00zj.jpg" width="100%" alt="Touhou Header" style="border-radius: 10px;" />
+  <img src="https://github.com/nekoraa/nekoraa/blob/main/3fa4f6107941969323187d2d381d028c.jpg" width="100%" alt="Touhou Header" style="border-radius: 10px;" />
 </div>
 
 <div align="center">
