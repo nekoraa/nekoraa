@@ -55,20 +55,8 @@
 
 <!-- 语言徽章，统一调整为红色/粉色系风格以契合主题 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardware-FF5733?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- 统计卡片，使用 dark 或 radical 主题来配合红魔馆的深色调 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekora&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff5e5e&icon_color=ff5e5e" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekora&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff5e5e&lang_count=6" height="150" alt="languages" />
-</div>
 
 ---
 
