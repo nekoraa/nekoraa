@@ -10,7 +10,7 @@
   <h1 style="margin: 0; padding: 0; font-size: 2em; color: #D10000; text-transform: uppercase; letter-spacing: 2px;">
     (ΦωΦ) NEKORA PROFILE
   </h1>
-  
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=18&pause=1000&color=333333&center=true&vCenter=true&width=500&height=30&lines=Welcome+to+Nekora's+World!(%3D%5E%C2%B7%CF%89%C2%B7%5E%3D);Hardware+%2F+Music+%2F+Python;Touhou+Lover+%26+VRChat+Resident" alt="Typing SVG" />
   </a>
