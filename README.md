@@ -80,5 +80,5 @@
   <p>見てくれてありがとだにゃ！また遊びに来てほしいにゃ！</p>
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ</h3>
   <!-- Pixel Decoration -->
-  <img src="https://tumugi.dpdns.org/media/%E5%B8%96%E5%AD%90%E5%9B%BE%E7%89%87/64015445_p0.jpg" width="50">
+  <img src="https://media.tenor.com/BJD3tZf5q2IAAAAi/remilia-scarlet-touhou.gif" width="60">
 </div>
