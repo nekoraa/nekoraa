@@ -1,116 +1,81 @@
-<!--
-TITLE: Scarlet Devil Mansion - Digital Branch
-AUTHOR: NEKORA
-TARGET: REMILIA SCARLET
--->
+
+<!-- 头部装饰：红魔馆风格 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EE2C2C&height=250&section=header&text=Welcome%20to%20Nekora's%20Mansion&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=🦇%20VRChat%20|%20Hardware%20|%20Touhou%20|%20Minecraft%20🦇&descAlignY=65&descSize=20" alt="Header" />
+</div>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/UfaSEmvHQtrEI/giphy.gif" width="200" alt="Remilia Scarlet" />
+# 🍷 ごきげんよう、Nekoraです 🍷
 
-# 🥀 Scarlet Devil Mansion - Digital Laboratory 🥀
-### 紅魔館・デジタル研究室へようこそ
-
-![Remilia Vibes](https://img.shields.io/badge/Owner-Remilia%20Scarlet-red?style=for-the-badge&logo=heart&logoColor=white)
-![Maintainer](https://img.shields.io/badge/Maintainer-NEKORA-black?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-Operating-success?style=for-the-badge)
-
+<!-- 社交徽章 & 邮箱 -->
+<a href="mailto:nekora316@gmail.com">
+  <img src="https://img.shields.io/badge/Email-nekora316%40gmail.com-D10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 <br/>
 
-**「 この世界は赤く、そして美しい。 」**
-*(此世即为红，故而美丽。)*
-
-</div>
-
----
-
-### 🧛‍♀️ About Me / 自己紹介
-
-ごきげんよう、異邦人の皆様。
-ここは**紅魔館の技術執務室**、および私の実験場です。
-
-私は **NEKORA (ネコラ)** と申します。
-主にレミリアお嬢様の退屈を紛らわせるためのガジェットを作ったり、
-幻想郷のデジタルインフラを整備したりしている**「猫科動物観察員」**です。
-
-*   **名前:** NEKORA
-*   **所属:** 紅魔館 (Scarlet Devil Mansion)
-*   **言語:** 日本語 / English / 中文 (System Translated)
-*   **生息地:** デジタルと現実の狭間、または紅魔館の地下室
-
-> **System.out.println("NEKORA is watching you.");** 
-> *(翻译：别乱动，NEKORA 盯着你呢。)*
-
----
-
-### 🔧 Interests & Skills / 趣味・特技
-
-私が愛する技術と世界を紹介しましょう。
-
-*   **⛩️ Touhou Project (東方Project):**
-    *   私の魂の故郷。
-    *   **最推しは当然、永遠に紅い幼き月、レミリア・スカーレットお嬢様！**
-    *   *(訳：大小姐赛高！大小姐万岁！威严满满！)*
-    
-*   **📺 Japanese Anime (日本アニメ):**
-    *   深夜アニメからニチアサまで。二次元は酸素です。
-
-*   **🛠️ Hardware Design (ハードウェア設計):**
-    *   FPGA, PCB Design, Embedded Systems...
-    *   物理的な回路を組んで、世界をハッキングするのが好きです。
-
-*   **🥽 VRChat:**
-    *   バーチャルな世界で狐になったり、空を飛んだり。
-    *   私のもう一つの現実。Find me in the metaverse!
-
-*   **⛏️ Minecraft:**
-    *   レッドストーン回路で計算機を作るのが趣味です。
-    *   紅魔館の1:1再現建築プロジェクト、進行中...かも？
-
----
-
-### 🦇 My Ojou-sama / レミリアお嬢様について
-
-| Attribute | Value | Note |
-| :--- | :--- | :--- |
-| **Name** | **Remilia Scarlet** | The Scarlet Devil |
-| **Charisma** | **SSS+** | Overwhelming |
-| **Cuteness** | **Infinite** | 尊い (Precious) |
-| **My Loyalty** | **100%** | Absolute |
-
-<div align="center">
-<i>「運命を操る程度の能力」に、私のコードも書き換えられてしまいました。</i><br/>
-*(我的代码已经被“操纵命运程度的能力”重写了。)*
-</div>
-
----
-
-### 📡 Contact / 通信回線
-
-御用の方、あるいはレミリア様への貢ぎ物がある方はこちらまで。
-
-<a href="mailto:nekora316@gmail.com">
-  <img src="https://img.shields.io/badge/Email-nekora316%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<!-- 动态打字机效果 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=24&pause=1000&color=BD0029&center=true&vCenter=true&width=500&lines=I+am+Nekora.;I+love+Touhou+Project!;Remilia+Scarlet+is+my+Oshi!%E2%9D%A4%EF%B8%8F;Python+Developer.;Hardware+Designer." alt="Typing SVG" />
 </a>
 
-<!-- 这里的链接你可以换成你的推特或其他社交媒体 -->
-<!-- <a href="https://twitter.com/YOUR_ID">
-  <img src="https://img.shields.io/badge/Twitter-@YOUR_ID-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a> -->
+</div>
 
 ---
 
-```java
-// TUmuGi System Log
-// Date: 紅霄暦 第27回輪
-// User: NEKORA [Admin]
+### 🧛‍♀️ 私について (About Me)
 
-public class Farewell {
-    public static void main(String[] args) {
-        if (user.isLeaving()) {
-            System.out.println("紅魔館へのご来訪、感謝いたします。");
-            System.out.println("またの月夜にお会いしましょう。");
-            // "Thank you for visiting SDM. See you on another moonlit night."
-        }
-    }
-}
+はじめまして！**Nekora（ネコラ）**と申します。<br/>
+紅魔館のような雰囲気と、可愛いものが大好きです！現在はハードウェア設計やプログラミングを勉強しながら、幻想郷（とVRChat）で遊んでいます。
+
+*   🔧 **Hardware Design**: 電子工作やPCB設計に興味があります。
+*   🐍 **Programming**: メイン言語は **Python** です！
+*   🎮 **Games**: 
+    *   **VRChat** (Virtual Reality is my second home!)
+    *   **Minecraft** (建築も回路も好き！)
+*   ⛩️ **Touhou Project**: 東方Projectの大ファンです。
+
+---
+
+### 🌹 最推し (My Favorite)
+
+<div align="center">
+  <h3>👑 <span style="color: #D10000;">レミリア・スカーレット様 (Remilia Scarlet)</span> 👑</h3>
+  <p>運命を操る程度の能力。<br/>
+  紅魔館の主であり、私の永遠の推しです！🦇</p>
+  <img src="https://img.shields.io/badge/Charisma-MAX-red?style=flat-square&logo=heart&logoColor=white">
+  <img src="https://img.shields.io/badge/Title-Scarlet%20Devil-crimson?style=flat-square">
+</div>
+
+---
+
+### 🛠️ 技術スタック (Tech Stack)
+
+私の好きな言語とツールたちです。<br/>
+
+<!-- 语言徽章，统一调整为红色/粉色系风格以契合主题 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardware-FF5733?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- 统计卡片，使用 dark 或 radical 主题来配合红魔馆的深色调 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekora&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff5e5e&icon_color=ff5e5e" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekora&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=ff5e5e&lang_count=6" height="150" alt="languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>見てくれてありがとう！また遊びに来てね！</p>
+  <h3>今日もいいことがありますように... ニャン！🐾</h3>
+  
+  <!-- 可选：放置一个可爱的像素装饰 -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q5ZGVjNDFkYzE4M2E5ZGVjNDFkYzE4M2E5ZGVjNDFkYzE4MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/13CoXDiaCcCoyk/giphy.gif" width="50">
+</div>
