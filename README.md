@@ -83,5 +83,5 @@
   <p><del>StarをくれるとNekoraが喜びの舞を踊るかもしれません</del></p>
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ </h3>
 
-   <img src="https://count.nett.moe/get/nekoraa/img?theme=moebooru-h" width="100%" alt="Touhou Header" style="border-radius: 10px;" />
+   <img src="https://count.nett.moe/get/nekoraa/img?theme=rule34" width="100%" alt="Touhou Header" style="border-radius: 10px;" />
 </div>
