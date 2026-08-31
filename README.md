@@ -82,6 +82,6 @@
   <p>見てくれてありがとだにゃ！また遊びに来てほしいにゃ！</p>
   <p><del>StarをくれるとNekoraが喜びの舞を踊るかもしれません</del></p>
   <h3>今日もいいことありますように… にゃん！ (ﾐΦ ﻌ Φﾐ)ﾉ </h3>
-  <img src="https://count.getloli.com/@nekoraa?name=nekoraa&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=1156" alt=":nekoraa" />
+  <img src="https://count.getloli.com/@nekoraa?name=nekoraa&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":nekoraa" />
 
 </div>
